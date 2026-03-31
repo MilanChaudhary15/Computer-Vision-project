@@ -28,7 +28,7 @@ In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
 1. Clone this repo:
 ```sh
 git clone https://github.com/MilanChaudhary15/Computer-Vision-project
-cd InstColorization
+
 ```
 2. Install [conda](https://www.anaconda.com/).
 3. Install all the dependencies
