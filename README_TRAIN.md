@@ -1,8 +1,6 @@
 # [CVPR 2020] Instance-aware Image Colorization
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 
-### [[Paper](https://arxiv.org/abs/2005.10825)] [[Project Website](https://ericsujw.github.io/InstColorization/)] [[Google Colab](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)]
-
 <p align='center'>
 <img src='imgs/teaser.png' width=1000>
 </p>
@@ -30,8 +28,8 @@ In IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
 ## Getting Started
 1. Clone this repo:
 ```sh
-git clone https://github.com/ericsujw/InstColorization
-cd InstColorization
+git clone https://github.com/MilanChaudhary15/Computer-Vision-project.git
+
 ```
 2. Install [conda](https://www.anaconda.com/).
 3. Install all the dependencies
@@ -106,6 +104,12 @@ If you find our code/models useful, please consider citing our paper:
   booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
   year = {2020}
 }
+```
+
+## Credits
+```sh
+git clone https://github.com/ericsujw/InstColorization
+cd InstColorization
 ```
 
 ## Acknowledgments
